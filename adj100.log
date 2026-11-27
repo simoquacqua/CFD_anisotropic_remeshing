@@ -1,0 +1,8 @@
+
+
+Error in "void CConfig::SetPostprocessing(SU2_COMPONENT, short unsigned int, short unsigned int)": 
+-------------------------------------------------------------------------
+PHYSICAL_PROBLEM must be set in the configuration file
+------------------------------ Error Exit -------------------------------
+
+
